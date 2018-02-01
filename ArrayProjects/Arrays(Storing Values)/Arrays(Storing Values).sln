@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays(Storing Values)", "Arrays(Storing Values)\Arrays(Storing Values).csproj", "{69D438CC-D156-4598-9ED1-0A10020E66FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D438CC-D156-4598-9ED1-0A10020E66FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D438CC-D156-4598-9ED1-0A10020E66FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D438CC-D156-4598-9ED1-0A10020E66FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D438CC-D156-4598-9ED1-0A10020E66FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB9652F-52E4-44EB-BE09-DF2E09C83C99}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\bin\Arrays(Storing Values).dll.config
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\bin\Arrays(Storing Values).dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\bin\Arrays(Storing Values).pdb
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\obj\Debug\Arrays(Storing Values).csprojResolveAssemblyReference.cache
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\obj\Debug\Arrays(Storing Values).csproj.CoreCompileInputs.cache
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\obj\Debug\Arrays(Storing Values).dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\Arrays(Storing Values)\Arrays(Storing Values)\obj\Debug\Arrays(Storing Values).pdb
